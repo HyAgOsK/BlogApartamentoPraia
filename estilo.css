@@ -92,7 +92,7 @@ p {
 }
 
 .meu-iframe {
-    width: 100%;
+    width: 90%;
     height: 850px; /* Altura inicial do iframe */
     border: none; /* Remove a borda padrão do iframe */
     overflow: hidden; /* Esconde o overflow no calendário */
