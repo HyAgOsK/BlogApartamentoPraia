@@ -25,6 +25,11 @@ img {
     width: 382px;
     height: 386px;
 }
+
+p {
+    font-size: 15px;
+    
+}
 .parallax {
     background-image: url('./imagens/navimage.jpg');
     background-size: cover;
